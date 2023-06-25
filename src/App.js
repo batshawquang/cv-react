@@ -17,10 +17,10 @@ function App() {
         <div className='flex justify-center'>
           <Routes>
               <Route path='/cv-react' element={<Home/>} />
-              <Route path="/project01" element={<Project01/>} />
-              <Route path="/project02" element={<Project02/>} />
-              <Route path="/project03" element={<Project03/>} />
-              <Route path="/project04" element={<Project04/>} />
+              <Route path="cv-react/project01" element={<Project01/>} />
+              <Route path="cv-react/project02" element={<Project02/>} />
+              <Route path="cv-react/project03" element={<Project03/>} />
+              <Route path="cv-react/project04" element={<Project04/>} />
           </Routes>
         </div>
 
