@@ -6,7 +6,7 @@ const BackHomeButton = () => {
         <div className="flex justify-center mt-5 cursor-pointer">
                 <button className="shadow bg-gray-50 text-gray-400 transform hover:scale-125 rounded-lg py-1 px-5"
                 >
-                    <Link to="/">Back</Link>
+                    <Link to="/cv-react">Back</Link>
                 </button>
         </div>
     );
