@@ -16,7 +16,7 @@ const NavBar = () => {
         <nav className="flex items-center justify-between flex-wrap bg-gray-200 py-2.5 px-10">
             <div className="flex items-center flex-shrink-0 text-black mr-6">
                 <span className="font-semibold text-xl tracking-tight">
-                    <Link to="/">QUANG DANG.</Link>
+                    <Link to="/cv-react">QUANG DANG.</Link>
                 </span>
             </div>
             <div className="block lg:hidden">
@@ -29,12 +29,8 @@ const NavBar = () => {
                     <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-white mr-4 text-sm px-4 py-2 border border-white rounded hover:border-transparent hover:text-black hover:bg-white">
                         Download CV
                     </a>
-                    <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-white mr-4 p-2">
-                        Projects
-                    </a>
-                    <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-white mr-4 p-2">
-                        About
-                    </a>
+                    <Link to="/cv-react" className="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-white mr-4 p-2">Projects</Link>
+                    {/* <Link to="/about" className="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-white mr-4 p-2">About</Link> */}
                 </div>
             </div>
         </nav>
