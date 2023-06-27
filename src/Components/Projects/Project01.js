@@ -7,7 +7,7 @@ const Project01 = () => {
             <div className="mx-14 my-5 max-w-screen-xl bg-gray-200 p-5 rounded">
                 <div className="grid grid-cols-2 gap-5">
                     <div className="">
-                        <img src="https://www.affirma.com/wp-content/uploads/2016/07/power-bi-embedded.jpg" alt=""></img>
+                        <img src="dasdsa" alt=""></img>
                     </div>
                     <div className="flex flex-col text-start">
                         <p>öajhdflijhdfliajsöasljhdfliajsöasljhdfliajs</p>

@@ -1,12 +1,12 @@
 import React from "react";
 import BackHomeButton from "../BackHomeButton";
 
-const Project03 = () => {
+const Project06 = () => {
     return(
         <div className="mx-14 my-5 max-w-screen-xl bg-gray-200 p-5 rounded">
             <div className="grid grid-cols-2 gap-5">
                 <div className="">
-                    <img src="https://i.imgur.com/d3tFKqj.png" alt=""></img>
+                    <img src="https://i.imgur.com/oQ6uvQW.png" alt=""></img>
                 </div>
                 <div className="flex flex-col text-start">
                     <p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
@@ -20,13 +20,13 @@ const Project03 = () => {
                     <p>öaliajsöasljhdfliajsöasljhdfliajsöasljhdfliajsöasljhdfliajs</p>
                 </div>
                 <div className="">
-                    <img src="https://i.imgur.com/wn3jroF.png" alt=""></img>
+                    <img src="https://i.imgur.com/1tNpIVq.png" alt=""></img>
                 </div>
             </div>
 
             <div className="grid grid-cols-2 gap-5 mt-5">
                 <div className="">
-                    <img src="https://i.imgur.com/hk9nLpz.png" alt=""></img>
+                    <img src="https://i.imgur.com/NidwoEa.png" alt=""></img>
                 </div>
                 <div className="flex flex-col text-start">
                     <p>öashdfliajsöasljhdfliajsöasljhdfliajs</p>
@@ -40,7 +40,17 @@ const Project03 = () => {
                     <p>öaliajsöasljhdfliajsöasljhdfliajsöasljhdfliajsöasljhdfliajs</p>
                 </div>
                 <div className="">
-                    <img src="https://i.imgur.com/giH6UYc.png" alt=""></img>
+                    <img src="https://i.imgur.com/ycduFlB.png" alt=""></img>
+                </div>
+            </div>
+
+            <div className="grid grid-cols-2 gap-5 mt-5">
+                <div className="">
+                    <img src="https://i.imgur.com/92gxX3p.png" alt=""></img>
+                </div>
+                <div className="flex flex-col text-start">
+                    <p>öashdfliajsöasljhdfliajsöasljhdfliajs</p>
+                    <p>öaöasljhdfliajsöasljhdfliajs</p>
                 </div>
             </div>
 
@@ -50,4 +60,4 @@ const Project03 = () => {
     );
 };
 
-export default Project03;
+export default Project06;
