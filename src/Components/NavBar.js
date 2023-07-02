@@ -26,7 +26,7 @@ const NavBar = () => {
             </div>
             <div className={"w-full lg:block flex-grow flex-col lg:items-center lg:w-auto " + barHidden}>
                 <div className="text-sm lg:flex lg:flex-row-reverse">
-                    <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-white mr-4 text-sm px-4 py-2 border border-white rounded hover:border-transparent hover:text-black hover:bg-white">
+                    <a href={process.env.PUBLIC_URL + "/mbmsys.png"} download="QuangDang_CV" className="block mt-4 lg:inline-block lg:mt-0 text-gray-600 mr-4 text-sm px-4 py-2 border border-white rounded hover:border-transparent hover:text-black hover:bg-white">
                         Download CV
                     </a>
                     <Link to="/cv-react" className="block mt-4 lg:inline-block lg:mt-0 text-gray-600 hover:text-white mr-4 p-2">Projects</Link>

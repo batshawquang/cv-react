@@ -1,4 +1,5 @@
 import ProjectCard from "./ProjectCard";
+import ProjectCardNoRoute from "./ProjectCardNoRoute";
 
 const ProjectSection = () => {
     return (
@@ -26,21 +27,21 @@ const ProjectSection = () => {
                     colspan="col-span-2"
                     linkTo="/cv-react/project04"
                     imgSrc="/ProjectImgs/pro04.jpg"
-                    name="Light direction estimation"
+                    name="Geometric Light Source Calibration"
                 />
-                <ProjectCard
+                <ProjectCardNoRoute
                     colspan=""
                     linkTo="/cv-react/project05"
                     imgSrc="/ProjectImgs/pro05.jpg"
                     name="Landing Page with Bootstrap"
                 />
-                <ProjectCard
+                <ProjectCardNoRoute
                     colspan=""
                     linkTo="/cv-react/project06"
                     imgSrc="/ProjectImgs/pro06.jpg"
                     name="Windows Forms .NET"
                 />
-                <ProjectCard
+                <ProjectCardNoRoute
                     colspan=""
                     linkTo="/cv-react/project07"
                     imgSrc="/ProjectImgs/pro07.jpg"

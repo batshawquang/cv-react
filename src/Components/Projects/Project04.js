@@ -6,6 +6,7 @@ const Project04 = () => {
         <div className="mx-14 my-5 max-w-screen-xl bg-gray-200 p-5 rounded">
             
             <div className="mx-5">
+                <h1 className="text-2xl mb-5">Geometric Light Source Calibration</h1>
                 <div className="flex justify-center">
                     <img src="https://i.imgur.com/ewZQQQd.png" alt="" className="rounded-lg w-3/4"></img>
                 </div>
@@ -23,7 +24,7 @@ const Project04 = () => {
                 </div>
             </div>
 
-            <div className="m-5 bg-gray-100 rounded-md">
+            <div className="m-5 bg-gray-100 rounded-md pb-5">
                 <div className="flex justify-around my-5">
                     <div className="m-1">
                         <img src="https://i.imgur.com/qLAsVZi.png" alt="" className="rounded w-max"></img>
@@ -35,7 +36,7 @@ const Project04 = () => {
                 <figcaption className="text-center">Lab Setups</figcaption>
             </div>
 
-            <div className="m-5 bg-gray-100 rounded-md">
+            <div className="m-5 bg-gray-100 rounded-md pb-5">
                 <div className="flex justify-around my-5">
                     <div className="m-1">
                         <img src="https://i.imgur.com/61WeeOl.png" alt="" className="rounded w-max"></img>
