@@ -13,6 +13,7 @@ const Project03 = () => {
                     <ul className="list-disc list-inside">
                         <li>3D Reconstruction of real model from stereo image pairs in real-time</li>
                         <li>Using cameras to build a system to test with real object in lab environment</li>
+                        <li>C++, OpenCV, OpenCL</li>
                     </ul>
                     <p className="font-bold">Contribute:</p>
                     <ul className="list-disc list-inside">

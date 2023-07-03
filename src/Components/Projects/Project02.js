@@ -8,7 +8,7 @@ const Project02 = () => {
             <div className="mx-5">
                 <h1 className="text-2xl mb-5">Microsoft WPF</h1>
                 <div className="flex justify-center">
-                    <img src={process.env.PUBLIC_URL + "/enbwsys.png"} alt="" className="rounded-lg w-3/4"></img>
+                    <img src={process.env.PUBLIC_URL + "/ProjectImgs/sys02.png"} alt="" className="rounded-lg w-3/4"></img>
                 </div>
                 <div className="text-start mx-5 my-10">
                     <p className="font-bold">Description:</p>

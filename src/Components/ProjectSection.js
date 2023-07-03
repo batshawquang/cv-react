@@ -45,7 +45,7 @@ const ProjectSection = () => {
                     colspan=""
                     linkTo="/cv-react/project07"
                     imgSrc="/ProjectImgs/pro07.jpg"
-                    name="Pokemon Deck"
+                    name="Pokemon Deck with React"
                 />
             </div>
         </div>

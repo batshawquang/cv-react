@@ -11,15 +11,16 @@ const Project04 = () => {
                     <img src="https://i.imgur.com/ewZQQQd.png" alt="" className="rounded-lg w-3/4"></img>
                 </div>
                 <div className="text-start mx-5 my-10">
-                    <p className=""><span className="font-bold">Aim:</span> Implement and evaluate two existing algowithms for real-time stereo matching.</p>
+                    <p className="font-bold">Bachelor Thesis</p>
                     <p className="font-bold">Description:</p>
                     <ul className="list-disc list-inside">
-                        <li>3D Reconstruction of real model from stereo image pairs in real-time</li>
-                        <li>Using cameras to build a system to test with real object in lab environment</li>
-                    </ul>
-                    <p className="font-bold">Contribute:</p>
-                    <ul className="list-disc list-inside">
-                        <li>Participate in implementing one of the two algowithms to create point cloud information</li>
+                        <li>Research, implement and evaluate a framework for detecting light source direction in an image</li>
+                        <li>Setup a laboratory environment for research purposes</li>
+                        <li>Python, OpenCV</li>
+                        <li><a href="https://docs.google.com/presentation/d/1n_ydb3uXxVhpiJ2HfdcGz2GJkxHntUv2EMI0U7XSi7o/edit?usp=sharing"
+                            className="text-gray-400 hover:text-white"
+                            target="_blank" rel="noreferrer"
+                        >Final Presentation</a></li>
                     </ul>
                 </div>
             </div>
